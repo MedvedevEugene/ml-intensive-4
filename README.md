@@ -49,7 +49,7 @@
 
 - Python, Jupyter Notebook
 - Pandas, NumPy
-- Scikit-learn, XGBoost, CatBoost
+- LogisticRegression, XGBoost
 - Label Studio, Microsoft Excel
 - Joblib (сериализация модели)
 - Matplotlib (визуализация ROC-кривых)
