@@ -47,19 +47,12 @@
 
 ### 🛠️ Используемые технологии
 
-Python
-
-Jupyter Notebook
-
-Pandas, NumPy
-
-Scikit-learn
-
-XGBoost 
-
-Joblib
-
-Label Studio
+- Python, Jupyter Notebook
+- Pandas, NumPy
+- Scikit-learn, XGBoost, CatBoost
+- Label Studio, Microsoft Excel
+- Joblib (сериализация модели)
+- Matplotlib (визуализация ROC-кривых)
 
 
 ## 📊 Результаты моделей
